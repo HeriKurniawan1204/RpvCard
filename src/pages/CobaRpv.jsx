@@ -17,10 +17,10 @@ export const CobaRpv = () => {
             <span className="text-white font-semibold">Ungu</span>
           </div>
           <div className="flex justify-between tablet:flex-row-reverse gap-4 items-center h-2/6 web:h-3/6 w-full">
-            <div className="flex justify-center items-center h-full w-full bg-[#EB38AE]">
+            <div className="flex justify-center items-center h-full w-full bg-pink-500">
               <span className="text-white font-semibold">Pink</span>
             </div>
-            <div className="flex justify-center items-center h-full w-full bg-[#38C0EB] tablet:bg-[#EB38AE] web:bg-[#38C0EB]">
+            <div className="flex justify-center items-center h-full w-full bg-cyan-400 tablet:bg-pink-500 web:bg-[#38C0EB]">
               <span className="text-white font-semibold">Biru</span>
             </div>
           </div>
